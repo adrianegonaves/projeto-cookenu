@@ -1,5 +1,5 @@
 import React from "react";
-import { ThemeProvider } from "styled-components";
+import { ThemeProvider } from '@mui/material/styles'
 import theme from "./constants/theme";
 import Router from "./routes/Router";
 
